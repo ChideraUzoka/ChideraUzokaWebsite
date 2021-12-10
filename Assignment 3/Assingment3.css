@@ -1,0 +1,140 @@
+.navbar-custom {
+  height: 200px;
+  margin: 40px;
+}
+
+.navigationBar {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-custom {
+  height: 2000px;
+  width: 100%;
+}
+
+.container-custom2 {
+  height: 700px;
+  width: 100%;
+}
+
+.aboutBox {
+  height: 300px;
+  text-align: center;
+  align-items: center;
+  margin: 15px;
+}
+
+.projectsBox {
+  border-radius: 25px;
+  margin-top: 70px;
+  height: 600px;
+  position: relative;
+}
+
+.headingCustom {
+
+  height: 100px;
+  margin-top: 60px;
+
+}
+
+.gradient {
+  background-image: linear-gradient(to bottom right, blue, purple);
+}
+.gradientGreen{
+  background-image: linear-gradient(to bottom right, rgb(64, 170, 64), rgb(18, 110, 141));
+
+}
+.gradientLightBlue {
+  background-image: linear-gradient(to bottom right, rgb(0, 47, 117), rgb(30, 138, 189));
+}
+.moreHeight {
+  height: 135px;
+}
+
+.roundedBoarder {
+  border-radius: 25px;
+}
+
+.image {
+  height: 450px;
+  width: 350px;
+}
+
+.icon{
+  width: 80px;
+}
+#contactStart {
+  font-size: 1.5em;
+  margin-top: 60px;
+}
+#contactStart2 {
+  font-size: 1.3em;
+ 
+}
+
+.text-space {
+  margin-top: 30px;
+}
+
+.moretextSpace{
+  margin-top: 150px;
+}
+
+.marginSpace {
+  margin: 15px;
+}
+.centertext{
+margin: 70px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.topMarginSpace{
+  margin-top: 100px;
+}
+
+.centerStuff {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+#workflow{
+  height: 500px;
+}
+
+.gradientText {
+  background: -webkit-linear-gradient(blue, rgb(194, 12, 148));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradientText2 {
+  background: -webkit-linear-gradient(red, rgb(255, 217, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gradientText3 {
+  background: -webkit-linear-gradient(green, rgb(95, 216, 216));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#lookAtWorkText{
+font-size: 4em;
+}
+
+#viewMoreLink{
+  font-size: 2em;
+}
+
+.navbar-collapse{
+
+}
